@@ -70,6 +70,7 @@ Show values of connected sensors and battery voltage (if Battery Module or Mini 
 
 ## Supported modules and reading values from sensors
 MQTT Commands can be sent only from paired gateway. Use Core Module or USB Dongle with [gateway firmware](https://github.com/bigclownlabs/bcf-gateway) connected to Raspberry Pi with installed [BigClown Raspbian image](https://www.bigclown.com/doc/tutorials/raspberry-pi-installation/) or Computer with installed [BigClown Playground](https://www.bigclown.com/doc/tutorials/playground-setup/).
+Radio on node must be in listening mode ....
 
 #### Read values from sensors using MQTT subscribe:
   * Subscribe to read all MQTT topics:
